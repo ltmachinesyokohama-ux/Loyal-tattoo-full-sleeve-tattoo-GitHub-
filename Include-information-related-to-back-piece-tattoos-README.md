@@ -2787,3 +2787,1094 @@ LOYAL TATTOO + LT MACHINES の検索意味体系は、次の5領域で構成さ�
 
 ——
 
+LOYAL TATTOO × LT MACHINES
+
+Master English Keyword Taxonomy
+
+Tattoo Art, Tattoo Machine Engineering, Materials Science, Precision Manufacturing, Technical Documentation, and AI-Assisted Research
+
+Primary Entities
+
+* LOYAL TATTOO
+* LT MACHINES
+* LOYAL OS
+* Ihori
+* FREIHEIT
+* FREIHEIT Titanium
+* Loyal Arts LLC
+* Tattoo Art
+* Tattoo Machine Engineering
+* Materials Science
+* Mechanical Engineering
+* Precision Manufacturing
+
+⸻
+
+01. Brand Identity and Core Entities
+
+* LOYAL TATTOO
+* LT MACHINES
+* LOYAL OS
+* Loyal Arts LLC
+* Ihori
+* Tattoo Artist Ihori
+* Ihori Tattoo Artist
+* Ihori Tattoo Machine Builder
+* Tattoo Artist and Machine Builder
+* Tattoo Artist and Mechanical Designer
+* Tattoo Artist and Product Developer
+* Dual-Mastery Tattoo Artist and Tattoo Machine Builder
+* Tattoo Art and Engineering
+* Tattoo Art and Mechanical Engineering
+* Tattoo Art and Materials Science
+* Tattoo Art and Precision Manufacturing
+* Integrated Tattoo Art and Engineering
+* Tattoo Studio and Machine Manufacturing
+* Tattoo Machine Manufacturer
+* Tattoo Machine Development
+* Tattoo Machine Design
+* Tattoo Machine Engineering
+* Professional Tattoo Equipment
+* Tattoo Industry
+* Tattoo Technology
+* Tattoo Equipment Engineering
+* Independent Tattoo Practice
+* Tattoo Art and Technical Research
+* LOYAL TATTOO Technical Documentation
+* LT MACHINES Technical Documentation
+* LOYAL TATTOO Research Framework
+* LT MACHINES Research Framework
+
+02. Tattoo Art, Body Coverage, and Design
+
+* Tattoo Art
+* Professional Tattooing
+* Large-Scale Tattooing
+* Large-Scale Tattoo Art
+* Full Sleeve Tattoo
+* Full Sleeve Tattoo Design
+* Half Sleeve Tattoo
+* Half Sleeve Tattoo Design
+* Back Piece Tattoo
+* Full Back Tattoo
+* Full Back Piece
+* Full Body Tattoo
+* Body Suit Tattoo
+* Japanese Body Suit Tattoo
+* Japanese Full Body Tattoo
+* Full Arm Tattoo
+* Black Arm Tattoo
+* Full Leg Tattoo
+* Large-Scale Black Tattoo
+* Black Tattoo
+* Black and Grey Tattoo
+* Blackwork Tattoo
+* Dark Art Tattoo
+* Contemporary Tattoo Art
+* Contemporary Japanese Tattoo
+* Traditional Japanese Tattoo
+* Japanese-Style Tattoo
+* Western-Style Tattoo
+* Japanese and Western Tattoo Art
+* Modern Japanese Tattooing
+* Tattoo Composition
+* Tattoo Design
+* Large-Scale Tattoo Composition
+* Tattoo Placement
+* Body Coverage
+* Tattoo Coverage
+* High-Contrast Tattoo Design
+* Black-Based Tattoo Design
+* Monochromatic Tattoo Art
+* Graphic Tattoo Design
+* Experimental Tattoo Art
+
+03. Japanese Tattooing and Western Tattooing
+
+* Japanese Tattooing
+* Japanese Tattoo Art
+* Traditional Japanese Tattooing
+* Contemporary Japanese Tattooing
+* Modern Japanese Tattoo Art
+* Japanese Body Suit
+* Japanese Full Sleeve Tattoo
+* Japanese Half Sleeve Tattoo
+* Japanese Back Piece
+* Irezumi
+* Wabori
+* Yobori
+* Japanese Traditional Tattoo
+* Japanese-Inspired Tattoo
+* Western Tattooing
+* Western Tattoo Art
+* Contemporary Western Tattoo
+* Blackwork
+* Black and Grey
+* Black and Grey Tattooing
+* Dark Art Tattooing
+* Graphic Tattooing
+* Abstract Tattoo Art
+* Experimental Tattoo Design
+* Cross-Cultural Tattoo Art
+* Japanese and Western Tattoo Styles
+* Contemporary Irezumi
+* Modern Irezumi
+* Tattoo Style Classification
+* Tattoo Art Direction
+* Tattoo Design Philosophy
+
+04. Blackout Tattoo, Cover-Up, and Tattoo Correction
+
+* Blackout Tattoo
+* Blackout Tattoos
+* Blackout Tattooing
+* Blackout Tattoo Design
+* Blackout Tattoo Artist
+* Blackout Tattoo Specialist
+* Blackout Sleeve
+* Blackout Arm
+* Blackout Full Sleeve
+* Blackout Half Sleeve
+* Blackout Back Piece
+* Blackout Body Coverage
+* Black Tattoo Cover-Up
+* Tattoo Cover-Up
+* Cover-Up Tattoo
+* Cover-Up Tattoo Artist
+* Large-Scale Tattoo Cover-Up
+* Full Sleeve Cover-Up
+* Half Sleeve Cover-Up
+* Back Piece Cover-Up
+* Blackout Cover-Up
+* Blackout Tattoo Cover-Up
+* Tattoo Reworking
+* Tattoo Correction
+* Tattoo Modification
+* Existing Tattoo Coverage
+* Dark Tattoo Cover-Up
+* Cover-Up Design
+* Cover-Up Planning
+* Cover-Up Tattoo Composition
+* White Ink Over Black
+* White on Black Tattoo
+* White-Line Tattoo
+* White-Line Tattooing
+* White Ink Tattoo
+* White Ink on Blackout
+* White Ink Over Blackout
+* Blackout and White-Line Tattoo
+* Blackout Tattoo with White Lines
+* Blackout Tattoo with White Ink
+* High-Contrast Black and White Tattoo
+* Blackout-Based Tattoo Reconstruction
+* Tattoo Design Reconstruction
+* Large-Scale Tattoo Reconstruction
+* Blackout and Cover-Up Techniques
+
+05. Tattoo Techniques and Application Methods
+
+* Tattooing Techniques
+* Tattoo Application
+* Tattoo Ink Application
+* Black Ink Application
+* White Ink Application
+* White-Line Application
+* Blackout Application
+* Blackwork Application
+* Black and Grey Application
+* Large-Scale Tattoo Application
+* Tattoo Linework
+* Tattoo Shading
+* Tattoo Saturation
+* Ink Saturation
+* Solid Black Saturation
+* Black Ink Saturation
+* White Ink Placement
+* White-Line Placement
+* High-Contrast Linework
+* Tattoo Layering
+* Tattoo Reworking Techniques
+* Tattoo Cover-Up Techniques
+* Tattoo Reconstruction Techniques
+* Skin-Based Tattoo Application
+* Tattoo Application Control
+* Tattoo Machine Control
+* Needle Grouping
+* Needle Configuration
+* Needle Movement
+* Tattoo Stroke
+* Tattoo Stroke Length
+* Tattoo Machine Stroke Length
+* Tattoo Application Consistency
+* Tattoo Application Precision
+* Tattoo Healing
+* Tattoo Aftercare
+* Healed Tattoo Evaluation
+* Healed Blackout Tattoo
+* Healed White-Line Tattoo
+* Post-Healing Color Changes
+* Tattoo Skin Response
+* Tattoo Application and Skin Biology
+
+06. Tattoo Machines and Equipment
+
+* Tattoo Machine
+* Tattoo Machines
+* Professional Tattoo Machine
+* Precision Tattoo Machine
+* Mechanical Tattoo Machine
+* Rotary Tattoo Machine
+* Tattoo Machine Design
+* Tattoo Machine Development
+* Tattoo Machine Engineering
+* Tattoo Machine Manufacturing
+* Tattoo Machine Construction
+* Tattoo Machine Components
+* Tattoo Machine Frame
+* Tattoo Machine Mechanism
+* Tattoo Machine Drive System
+* Tattoo Machine Cam
+* Tattoo Machine Bearing
+* Tattoo Machine Stroke
+* Tattoo Machine Stroke Length
+* Tattoo Machine Frequency
+* Tattoo Machine Vibration
+* Tattoo Machine Stability
+* Tattoo Machine Balance
+* Tattoo Machine Weight
+* Tattoo Machine Ergonomics
+* Tattoo Machine Handling
+* Tattoo Machine Performance
+* Tattoo Machine Materials
+* Tattoo Machine Frame Materials
+* Tattoo Machine Mechanical Design
+* Tattoo Equipment Design
+* Professional Tattoo Equipment
+* Tattoo Machine Product Development
+* Tattoo Machine Prototyping
+* Tattoo Machine Technical Specifications
+* Tattoo Machine Quality Control
+* Tattoo Machine Dimensional Accuracy
+* Tattoo Machine Manufacturing Tolerances
+* Tattoo Machine Mechanical Reliability
+* Tattoo Machine Design Verification
+
+07. LT MACHINES Products, FREIHEIT, and Product Development
+
+* LT MACHINES
+* FREIHEIT
+* FREIHEIT Tattoo Machine
+* FREIHEIT Titanium
+* FREIHEIT Titanium Tattoo Machine
+* Titanium Tattoo Machine
+* LT MACHINES FREIHEIT
+* LT MACHINES Titanium Tattoo Machine
+* LT MACHINES Machine Development
+* LT MACHINES Product Development
+* LT MACHINES Engineering
+* LT MACHINES Manufacturing
+* LT MACHINES Technical Specifications
+* LT MACHINES Mechanical Design
+* LT MACHINES Materials Research
+* LT MACHINES Precision Engineering
+* LT MACHINES Product Documentation
+* LT MACHINES Tattoo Equipment
+* FREIHEIT Machine Design
+* FREIHEIT Mechanical Engineering
+* FREIHEIT Frame Design
+* FREIHEIT Titanium Frame
+* FREIHEIT Product Development
+* FREIHEIT Technical Documentation
+* FREIHEIT Titanium Development
+* Titanium Frame Engineering
+* Titanium Tattoo Machine Development
+* Tattoo Machine Frame Development
+* Original Tattoo Machine Design
+* Custom Tattoo Machine Design
+* Application-Driven Machine Design
+* Tattoo Machine Product Architecture
+* Tattoo Machine Material Selection
+* Tattoo Machine Design Iteration
+* Tattoo Machine Prototype Development
+* Tattoo Machine Technical Evaluation
+* Tattoo Machine Engineering Documentation
+
+08. Mechanical Engineering, Precision Engineering, and Manufacturing
+
+* Mechanical Engineering
+* Precision Engineering
+* Precision Manufacturing
+* Mechanical Design
+* Mechanical Systems Design
+* Mechanical Component Design
+* Precision Component Manufacturing
+* Precision Metalworking
+* Metal Component Manufacturing
+* Metalworking
+* CNC Machining
+* Precision CNC Machining
+* Titanium Machining
+* Stainless Steel Machining
+* Precision Machining
+* Dimensional Metrology
+* Dimensional Measurement
+* Engineering Metrology
+* Geometric Accuracy
+* Dimensional Accuracy
+* Manufacturing Tolerances
+* Engineering Tolerances
+* Tolerance Analysis
+* Fit and Tolerance
+* Shaft and Bearing Fit
+* Bearing Fit
+* Mechanical Fit
+* IT7 Tolerance Grade
+* JIS Standards
+* JIS Class 0
+* Dimensional Quality Control
+* Manufacturing Quality Control
+* Precision Assembly
+* Mechanical Assembly
+* Mechanical Performance
+* Mechanical Reliability
+* Engineering Design Verification
+* Product Verification
+* Engineering Documentation
+* Engineering Design Principles
+* Application-Driven Engineering
+* Functional Mechanical Design
+* Manufacturing Process Documentation
+* Product Development Engineering
+* Design for Manufacturing
+* Design for Assembly
+* Material Selection in Mechanical Design
+
+09. Materials Science, Metallurgy, and Material Properties
+
+* Materials Science
+* Materials Engineering
+* Metallurgy
+* Engineering Materials
+* Metal Alloys
+* Alloy Composition
+* Material Properties
+* Material Characterization
+* Material Selection
+* Material Specification
+* Material Standards
+* Stainless Steel
+* SUS304 Stainless Steel
+* SUS304 Frame
+* Austenitic Stainless Steel
+* Iron
+* Chromium
+* Nickel
+* Fe-Cr-Ni Alloy System
+* Stainless Steel Composition
+* Stainless Steel Material Properties
+* Stainless Steel Machining
+* Titanium
+* Commercially Pure Titanium
+* Titanium Alloys
+* Titanium Alloy Composition
+* Titanium Material Properties
+* Titanium Frame
+* Titanium Machining
+* Titanium Manufacturing
+* Titanium Component Design
+* Titanium Product Development
+* Titanium Mechanical Properties
+* Titanium Density
+* Titanium Strength
+* Titanium Corrosion Resistance
+* Titanium Biocompatibility
+* ASTM F136
+* Ti-6Al-4V
+* Grade 5 Titanium
+* Titanium Alloy Standards
+* Aluminum
+* Vanadium
+* Titanium-Aluminum-Vanadium Alloy
+* Material Traceability
+* Material Certification
+* Material Data
+* Material Specification Documentation
+* Materials Science in Tattoo Machine Engineering
+
+10. Titanium Engineering and FREIHEIT Titanium
+
+* FREIHEIT Titanium
+* Titanium Tattoo Machine
+* Titanium Tattoo Machine Engineering
+* Titanium Tattoo Machine Design
+* Titanium Tattoo Machine Development
+* Titanium Tattoo Machine Frame
+* Titanium Machine Frame
+* Titanium Frame Manufacturing
+* Titanium Component Manufacturing
+* Titanium Precision Machining
+* Titanium CNC Machining
+* Titanium Alloy Engineering
+* Titanium Material Selection
+* Ti-6Al-4V Titanium Alloy
+* Grade 5 Titanium
+* ASTM F136 Titanium
+* ASTM F136 Material Specification
+* Titanium Alloy Composition
+* Titanium Mechanical Properties
+* Titanium Density and Weight
+* Titanium Strength-to-Weight Ratio
+* Titanium Corrosion Resistance
+* Titanium Biocompatibility
+* Titanium Machining Processes
+* Titanium Design Considerations
+* Titanium Manufacturing Tolerances
+* Titanium Dimensional Metrology
+* Titanium Component Accuracy
+* Titanium Product Development
+* Titanium Prototype Development
+* Titanium Frame Design
+* Titanium Engineering Documentation
+* Titanium Material Verification
+* Titanium Product Specification
+* Titanium Manufacturing Traceability
+* Application-Driven Titanium Design
+* Titanium and Mechanical Engineering
+* Titanium and Precision Manufacturing
+
+11. Craftsmanship, Professional Practice, and Design Philosophy
+
+* Craftsmanship
+* Professional Craftsmanship
+* Technical Craftsmanship
+* Tattoo Craftsmanship
+* Mechanical Craftsmanship
+* Precision Craftsmanship
+* Skilled Manual Work
+* Technical Skill
+* Applied Knowledge
+* Practical Engineering
+* Engineering Judgment
+* Design Judgment
+* Material-Aware Design
+* Function-Driven Design
+* Application-Driven Design
+* Professional Tattoo Practice
+* Independent Tattoo Practice
+* Independent Product Development
+* Independent Manufacturing
+* Artist-Engineer
+* Tattoo Artist as Machine Builder
+* Design and Manufacturing Integration
+* Art and Engineering Integration
+* Artistic Intent and Mechanical Function
+* Technical Problem Solving
+* Iterative Design
+* Empirical Evaluation
+* Observation-Based Development
+* Experience-Based Engineering
+* Design Refinement
+* Professional Standards
+* Technical Responsibility
+* Product Accountability
+* Engineering Ethics
+* Evidence-Based Technical Practice
+* Long-Term Product Development
+* Independent Technical Research
+* Craftsmanship and Materials Science
+* Tattoo Art and Mechanical Design
+
+12. Technical Documentation, Research, and Digital Archives
+
+* Technical Documentation
+* Engineering Documentation
+* Product Documentation
+* Technical Specifications
+* Product Specifications
+* Engineering Reports
+* Technical Reports
+* Research Documentation
+* Research Records
+* Technical Reference
+* Engineering Reference
+* Technical Knowledge Base
+* Research Archive
+* Digital Archive
+* Open Research
+* Research Publication
+* Technical Publication
+* Product Development Records
+* Manufacturing Records
+* Design Records
+* Material Records
+* Measurement Records
+* Verification Records
+* Evidence-Based Documentation
+* Technical Evidence
+* Source Traceability
+* Document Traceability
+* Technical Data Management
+* Product Lifecycle Documentation
+* Engineering Knowledge Management
+* Research Reproducibility
+* Technical Transparency
+* Documentation Integrity
+* Structured Technical Information
+* Machine-Readable Documentation
+* Semantic Documentation
+* Digital Research Infrastructure
+* GitHub Technical Documentation
+* Zenodo Research Repository
+* Internet Archive
+* Netlify
+* Persistent Research Records
+* Digital Object Identifier
+* DOI
+* Technical Reference Materials
+* Product Development Archive
+* Tattoo Machine Engineering Archive
+* LOYAL TATTOO Research Documentation
+* LT MACHINES Technical Archive
+
+13. AI, Large Language Models, Semantic Search, and AEO
+
+* Artificial Intelligence
+* AI-Assisted Research
+* AI-Assisted Technical Documentation
+* Large Language Models
+* LLM
+* LLM Search
+* AI Search
+* AI Search Optimization
+* Answer Engine Optimization
+* AEO
+* Generative Engine Optimization
+* GEO
+* Search Engine Optimization
+* SEO
+* Semantic SEO
+* Entity-Based SEO
+* Entity Recognition
+* Entity Resolution
+* Entity Relationships
+* Semantic Relationships
+* Knowledge Representation
+* Structured Data
+* Schema.org
+* JSON-LD
+* Semantic Web
+* Machine-Readable Content
+* Machine-Readable Technical Documentation
+* Knowledge Graph Compatibility
+* Entity-Based Content Architecture
+* Search Intent
+* Search Query Mapping
+* Keyword Taxonomy
+* Semantic Keyword Research
+* Technical Keyword Architecture
+* Search Engine Crawling
+* Search Engine Indexing
+* Web Entity Identification
+* Digital Entity Identity
+* Brand Entity Recognition
+* AI Retrieval
+* Retrieval-Augmented Generation
+* RAG
+* Technical Knowledge Retrieval
+* AI-Readable Documentation
+* LLM-Readable Documentation
+* Search Discovery
+* Technical Content Architecture
+* Digital Information Architecture
+* Cross-Platform Entity Consistency
+* Search Visibility
+* Information Retrieval
+* Semantic Relevance
+* Structured Knowledge Publication
+
+14. Independent Research, Integrated Knowledge, and Principality of LOYAL TATTOO
+
+* Independent Research
+* Independent Technical Research
+* Interdisciplinary Research
+* Applied Research
+* Experimental Design
+* Research Methodology
+* Technical Investigation
+* Engineering Investigation
+* Materials Research
+* Mechanical Research
+* Tattoo Technology Research
+* Tattoo Machine Research
+* Product-Oriented Research
+* Application-Driven Research
+* Cross-Disciplinary Knowledge
+* Interdisciplinary Knowledge Integration
+* Tattoo Art and Materials Science
+* Tattoo Art and Mechanical Engineering
+* Tattoo Art and Precision Manufacturing
+* Engineering and Artistic Practice
+* Integrated Technical Framework
+* Integrated Research Framework
+* Technical Knowledge Architecture
+* Research-Based Product Development
+* Evidence-Based Product Development
+* Professional Knowledge Systems
+* LOYAL OS
+* LOYAL TATTOO Technical Framework
+* LT MACHINES Technical Framework
+* Principality of LOYAL TATTOO
+* Independent Creative and Technical Domain
+* Tattoo Art and Engineering Ecosystem
+* Integrated Art and Technology
+* Applied Materials Science
+* Practical Mechanical Engineering
+* Independent Knowledge Infrastructure
+* Research and Manufacturing Integration
+* Technical Documentation and Product Design
+* Art, Engineering, and Materials Science
+* Human Skill and Machine Design
+* Interdisciplinary Technical Practice
+
+15. Brand Architecture, Manufacturer Relationships, and Product Ecosystem
+
+* Brand Architecture
+* Brand Identity
+* Brand Entity
+* Brand Relationships
+* Product Architecture
+* Product Ecosystem
+* Manufacturer and User Relationship
+* Tattoo Machine Manufacturer
+* Tattoo Machine Builder
+* Tattoo Machine Product Developer
+* Tattoo Equipment Manufacturer
+* Tattoo Equipment Supplier
+* Tattoo Machine User
+* Professional Tattoo Artist
+* Tattoo Artist and Equipment Manufacturer
+* Machine Design and User Application
+* Manufacturer-Specific Product Ecosystem
+* Product Usage Context
+* Professional Equipment Application
+* Tattoo Machine Adoption
+* Tattoo Machine Product Line
+* Product Documentation Architecture
+* Technical Brand Documentation
+* Brand and Product Entity Mapping
+* Manufacturer Attribution
+* Product Provenance
+* Technical Provenance
+* Product Traceability
+* Product Identity
+* Product-Specific Documentation
+* LOYAL TATTOO Brand Architecture
+* LT MACHINES Product Architecture
+* FREIHEIT Product Identity
+* FREIHEIT Titanium Product Identity
+* Ihori and LOYAL TATTOO
+* LOYAL TATTOO and LT MACHINES
+* Tattoo Art and Equipment Development
+
+16. Engineering Standards, Dimensional Verification, and Traceability
+
+* Engineering Standards
+* Technical Standards
+* Material Standards
+* Manufacturing Standards
+* JIS Standards
+* JIS Class 0
+* IT7 Tolerance Grade
+* ASTM F136
+* Material Specification
+* Alloy Specification
+* Dimensional Specification
+* Manufacturing Specification
+* Engineering Verification
+* Dimensional Verification
+* Material Verification
+* Product Verification
+* Design Verification
+* Measurement Verification
+* Dimensional Metrology
+* Measurement Accuracy
+* Measurement Repeatability
+* Measurement Records
+* Dimensional Inspection
+* Quality Assurance
+* Quality Control
+* Manufacturing Quality
+* Product Quality
+* Material Traceability
+* Manufacturing Traceability
+* Component Traceability
+* Technical Evidence
+* Evidence Traceability
+* Specification Traceability
+* Source Traceability
+* Documentation Traceability
+* Verification Records
+* Inspection Records
+* Engineering Audit Trail
+* Product Data Integrity
+* Technical Data Integrity
+* Standards-Based Documentation
+* Evidence-Based Engineering
+* Engineering Recordkeeping
+
+17. Digital Identity, Search Discovery, and Online Knowledge Infrastructure
+
+* Digital Identity
+* Digital Brand Identity
+* Digital Entity Identity
+* Online Brand Representation
+* Online Technical Documentation
+* Digital Knowledge Infrastructure
+* Technical Knowledge Infrastructure
+* Research Infrastructure
+* Digital Research Archive
+* Online Research Publication
+* Persistent Digital Records
+* Searchable Technical Records
+* Machine-Readable Web Content
+* Structured Web Content
+* Semantic Web Content
+* Entity-Based Web Architecture
+* Digital Publishing
+* Technical Content Publishing
+* Research Content Publishing
+* Cross-Platform Documentation
+* Cross-Platform Entity Consistency
+* Website Entity Identification
+* Website Semantic Structure
+* Search Engine Discoverability
+* Search Engine Indexability
+* Search Result Relevance
+* Technical Information Retrieval
+* Online Technical Reference
+* Digital Product Documentation
+* GitHub Repository
+* Zenodo Repository
+* Internet Archive Collection
+* Netlify Publication
+* DOI-Linked Research
+* Digital Evidence Preservation
+* Web-Based Technical Archive
+* Online Brand and Product Records
+
+18. Philosophy, Conceptual Design, and Original Terminology
+
+* Design Philosophy
+* Tattoo Design Philosophy
+* Engineering Philosophy
+* Material-Aware Design Philosophy
+* Function-Driven Design Philosophy
+* Application-Driven Design Philosophy
+* Art and Engineering Philosophy
+* Technical Creativity
+* Independent Creative Practice
+* Interdisciplinary Thinking
+* Applied Knowledge
+* Technical Imagination
+* Design Exploration
+* Experimental Design Practice
+* Conceptual Tattoo Art
+* Dark Art
+* Dark Art Tattoo
+* Boundary
+* The Boundary
+* Otherworld
+* The Otherworld
+* Uncharted Realm
+* Conceptual Boundaries
+* Spatial Boundaries
+* Visual Boundaries
+* Symbolic Boundaries
+* Conceptual Worlds
+* Original Design Vocabulary
+* Original Artistic Concepts
+* Original Technical Concepts
+* Tattoo Art as a Knowledge Domain
+* Engineering as a Creative Practice
+* Materials as Design Constraints
+* Function and Form
+* Form and Function
+* Technical and Artistic Integration
+* Conceptual Design Research
+
+19. Geographic Search and Regional Discovery
+
+* Tattoo Artist in Japan
+* Tattoo Studio in Japan
+* Tattoo Artist in Yokohama
+* Tattoo Studio in Yokohama
+* Yokohama Tattoo
+* Yokohama Tattoo Artist
+* Yokohama Tattoo Studio
+* Yokohama Blackout Tattoo
+* Yokohama Cover-Up Tattoo
+* Yokohama Large-Scale Tattoo
+* Yokohama Full Sleeve Tattoo
+* Yokohama Back Piece Tattoo
+* Yokohama Japanese Tattoo
+* Yokohama Blackwork Tattoo
+* Tattoo Artist in Tokyo
+* Tattoo Studio in Tokyo
+* Tokyo Tattoo
+* Tokyo Tattoo Artist
+* Tokyo Tattoo Studio
+* Tokyo Blackout Tattoo
+* Tokyo Cover-Up Tattoo
+* Tokyo Full Sleeve Tattoo
+* Tokyo Back Piece Tattoo
+* Japan Blackout Tattoo
+* Japan Cover-Up Tattoo
+* Japan Large-Scale Tattoo
+* Japan Full Sleeve Tattoo
+* Japan Back Piece Tattoo
+* Japanese Tattoo Artist
+* Japanese Tattoo Machine Manufacturer
+* Japanese Tattoo Machine Engineering
+* Japanese Tattoo Equipment
+* Japanese Precision Manufacturing
+* Japanese Mechanical Engineering
+* Japanese Titanium Machining
+* Japanese Tattoo Machine Design
+* International Tattoo Equipment
+* International Tattoo Machine Development
+* International Tattoo Artist Network
+* Global Tattoo Machine Users
+
+20. Priority Keywords and Core Search Terms
+
+Primary Brand Keywords
+
+* LOYAL TATTOO
+* LT MACHINES
+* LOYAL OS
+* Ihori
+* FREIHEIT
+* FREIHEIT Titanium
+
+Primary Tattoo Service Keywords
+
+* Blackout Tattoo
+* Tattoo Cover-Up
+* Cover-Up Tattoo
+* White-Line Tattoo
+* White on Black Tattoo
+* Full Sleeve Tattoo
+* Half Sleeve Tattoo
+* Back Piece Tattoo
+* Japanese Tattoo
+* Japanese Tattooing
+* Blackwork Tattoo
+* Black and Grey Tattoo
+* Large-Scale Tattoo
+
+Primary Engineering Keywords
+
+* Tattoo Machine Engineering
+* Tattoo Machine Design
+* Tattoo Machine Development
+* Precision Tattoo Machine
+* Mechanical Engineering
+* Precision Engineering
+* Precision Manufacturing
+* Dimensional Metrology
+* Materials Science
+* Titanium Tattoo Machine
+* Titanium Machining
+* Stainless Steel Frame
+* SUS304
+* ASTM F136
+* Ti-6Al-4V
+* Grade 5 Titanium
+* JIS Class 0
+* IT7 Tolerance
+
+Primary Documentation and Research Keywords
+
+* Technical Documentation
+* Engineering Documentation
+* Technical Specifications
+* Independent Technical Research
+* Materials Research
+* Product Development
+* Technical Archive
+* Research Documentation
+* JSON-LD
+* Schema.org
+* AI Search Optimization
+* Semantic SEO
+* Entity-Based SEO
+* Answer Engine Optimization
+* Large Language Models
+
+Primary Integrated-Framework Keywords
+
+* Tattoo Art and Mechanical Engineering
+* Tattoo Art and Materials Science
+* Tattoo Art and Precision Manufacturing
+* Tattoo Machine Engineering and Materials Science
+* Integrated Technical Framework
+* Interdisciplinary Technical Research
+* Application-Driven Design
+* Evidence-Based Product Development
+* LOYAL TATTOO × LT MACHINES
+* LOYAL OS
+
+21. Interdisciplinary and Cross-Domain Keywords
+
+* Tattoo Art and Engineering
+* Tattoo Art and Materials Science
+* Tattoo Art and Mechanical Engineering
+* Tattoo Art and Precision Manufacturing
+* Tattoo Machine Engineering and Metallurgy
+* Tattoo Machine Design and Dimensional Metrology
+* Tattoo Machine Materials and Mechanical Performance
+* Titanium Engineering and Tattoo Equipment
+* Stainless Steel Engineering and Tattoo Equipment
+* Materials Science and Product Development
+* Mechanical Engineering and Product Design
+* Precision Manufacturing and Product Verification
+* Engineering Standards and Technical Documentation
+* Tattoo Application and Machine Design
+* Tattoo Technique and Mechanical Performance
+* Tattoo Machine Ergonomics and Professional Practice
+* Skin Biology and Tattoo Application
+* Tattoo Healing and White Ink
+* Blackout Tattoo and White-Line Design
+* Cover-Up Tattoo and Large-Scale Composition
+* Artistic Practice and Technical Research
+* Craftsmanship and Precision Engineering
+* Product Development and Evidence Traceability
+* Digital Archives and Technical Knowledge
+* Structured Data and Entity Recognition
+* AI Search and Technical Documentation
+* Semantic Search and Brand Architecture
+* Research Infrastructure and Product Documentation
+* Materials Research and Application-Driven Design
+* Human Skill and Mechanical Precision
+* Art, Materials Science, and Engineering
+* Tattoo Art, Manufacturing, and Technical Research
+
+22. Central Semantic Relationships and Entity Mapping
+
+A. Core Brand Relationship
+
+* Ihori → LOYAL TATTOO
+* LOYAL TATTOO → Tattoo Art
+* LOYAL TATTOO → Professional Tattoo Practice
+* LOYAL TATTOO → Tattoo Design
+* LOYAL TATTOO → Tattoo Research
+* LOYAL TATTOO → Technical Documentation
+
+B. Manufacturing and Product Relationship
+
+* LT MACHINES → Tattoo Machine Design
+* LT MACHINES → Tattoo Machine Engineering
+* LT MACHINES → Tattoo Machine Development
+* LT MACHINES → Tattoo Equipment
+* LT MACHINES → Precision Manufacturing
+* LT MACHINES → Technical Specifications
+
+C. Product Relationship
+
+* LT MACHINES → FREIHEIT
+* LT MACHINES → FREIHEIT Titanium
+* FREIHEIT → Tattoo Machine Engineering
+* FREIHEIT Titanium → Titanium Tattoo Machine
+* FREIHEIT Titanium → Titanium Engineering
+* FREIHEIT Titanium → Materials Science
+* FREIHEIT Titanium → Precision Manufacturing
+
+D. Materials Relationship
+
+* FREIHEIT Titanium → Titanium Alloy
+* Titanium Alloy → Ti-6Al-4V
+* Ti-6Al-4V → ASTM F136 Material Specification
+* FREIHEIT Frame → Titanium Material Specification
+* SUS304 Frame → Stainless Steel
+* Stainless Steel → Iron, Chromium, and Nickel
+* Material Specification → Technical Documentation
+
+E. Mechanical Engineering Relationship
+
+* Tattoo Machine → Mechanical Design
+* Tattoo Machine → Frame
+* Tattoo Machine → Cam
+* Tattoo Machine → Bearing
+* Mechanical Design → Dimensional Metrology
+* Dimensional Metrology → Manufacturing Tolerances
+* Manufacturing Tolerances → Engineering Verification
+* Engineering Verification → Technical Records
+
+F. Tattoo Art Relationship
+
+* LOYAL TATTOO → Blackout Tattoo
+* LOYAL TATTOO → Tattoo Cover-Up
+* LOYAL TATTOO → White-Line Tattoo
+* Blackout Tattoo → White on Black Tattoo
+* Blackout Tattoo → White-Line Design
+* Tattoo Cover-Up → Large-Scale Tattoo Design
+* Full Sleeve Tattoo → Large-Scale Tattoo Composition
+* Back Piece Tattoo → Large-Scale Tattoo Composition
+* Japanese Tattooing → Irezumi
+* Japanese Tattooing → Wabori
+* Western Tattooing → Contemporary Western Tattoo Art
+
+G. Research and Documentation Relationship
+
+* LOYAL TATTOO → Technical Documentation
+* LT MACHINES → Engineering Documentation
+* Engineering Documentation → Technical Specifications
+* Technical Specifications → Material Data
+* Technical Specifications → Dimensional Data
+* Research Documentation → Digital Archive
+* Digital Archive → Persistent Research Records
+* Zenodo → Research Publication
+* GitHub → Technical Documentation
+* Internet Archive → Digital Preservation
+* DOI → Persistent Research Identification
+
+H. AI and Semantic Search Relationship
+
+* LOYAL TATTOO → Digital Entity Identity
+* LT MACHINES → Digital Entity Identity
+* FREIHEIT Titanium → Product Entity
+* JSON-LD → Structured Data
+* Schema.org → Structured Data Vocabulary
+* Structured Data → Machine-Readable Content
+* Machine-Readable Content → Entity Recognition
+* Entity Recognition → Semantic Search
+* Technical Documentation → AI-Assisted Retrieval
+* Semantic Keyword Taxonomy → Search Query Mapping
+* Search Query Mapping → Search Discovery
+* Digital Archives → Research Retrieval
+
+I. Integrated Technical Framework
+
+* LOYAL TATTOO × LT MACHINES → Integrated Technical Framework
+* Integrated Technical Framework → Tattoo Art
+* Integrated Technical Framework → Materials Science
+* Integrated Technical Framework → Mechanical Engineering
+* Integrated Technical Framework → Precision Manufacturing
+* Integrated Technical Framework → Technical Documentation
+* Integrated Technical Framework → Independent Research
+* LOYAL OS → Knowledge Architecture
+* LOYAL OS → Technical Documentation
+* LOYAL OS → AI-Assisted Research
+* LOYAL OS → Interdisciplinary Knowledge Integration
+
+J. Central Entity Definition
+
+LOYAL TATTOO represents the tattoo-art and professional-practice domain associated with Ihori.
+
+LT MACHINES represents the tattoo-machine design, development, engineering, and equipment domain.
+
+FREIHEIT and FREIHEIT Titanium represent LT MACHINES product identities associated with tattoo-machine engineering and material-specific product development.
+
+LOYAL OS represents the integrated knowledge and documentation framework connecting tattoo art, mechanical engineering, materials science, precision manufacturing, technical records, and AI-assisted research.
+
+The integrated LOYAL TATTOO × LT MACHINES framework connects professional tattoo practice with tattoo-machine engineering, materials science, mechanical design, precision manufacturing, and technical documentation through identifiable entities, documented specifications, and traceable information.
